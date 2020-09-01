@@ -1,0 +1,73 @@
+{
+  "usuarios": [
+    {
+      "id": 0,
+      "cpf": "000000000",
+      "data": "12/09/1978",
+      "email": "cande@hotmail"
+    },
+    {
+      "id": 1,
+      "cpf": "000000300",
+      "data": "12/09/1976",
+      "email": "cande@hotmail"
+    },
+    {
+      "id": 2,
+      "cpf": "000000100",
+      "data": "12/09/1977",
+      "email": "cande@hotmail"
+    },
+    {
+      "cpf": "123456789",
+      "nome": "asdfasdf",
+      "email": "asdfasdf@sdfasdfa.com",
+      "data": "27/11/1997",
+      "id": 3
+    },
+    {
+      "cpf": "123456789",
+      "nome": "debora silva",
+      "email": "asdfasdf@sdfasdfa.com",
+      "data": "27/11/1997",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "cpf": "123456799",
+      "email": "sgdhdgh@jkkdhjh.com",
+      "nome": "jdssdhhsdjh",
+      "data": "1998-05-12",
+      "senha": "xxxxxx",
+      "senha2": "xxxxxx",
+      "id": 8
+    },
+    {
+      "cpf": "123456234",
+      "email": "teste@teste.com",
+      "nome": "teste do xandao",
+      "data": "1997-11-27",
+      "senha": "asdfasdf",
+      "senha2": "asdfasdf",
+      "id": 9
+    },
+    {
+      "cpf": "000000000",
+      "email": "dddw@hormail.com",
+      "nome": "Alexandre Henrique Oliveira Ribeiro",
+      "data": "2020-08-03",
+      "senha": "xxxxx",
+      "senha2": "xxxxxx",
+      "id": 10
+    }
+  ],
+  "orcamentos": []
+}
